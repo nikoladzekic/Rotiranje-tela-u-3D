@@ -1,0 +1,7 @@
+C:\Users\B3astly\source\repos\rotiranjetelau3D\rotiranjetelau3D\bin\Debug\rotiranjetelau3D.exe.config
+C:\Users\B3astly\source\repos\rotiranjetelau3D\rotiranjetelau3D\bin\Debug\rotiranjetelau3D.exe
+C:\Users\B3astly\source\repos\rotiranjetelau3D\rotiranjetelau3D\bin\Debug\rotiranjetelau3D.pdb
+C:\Users\B3astly\source\repos\rotiranjetelau3D\rotiranjetelau3D\obj\Debug\rotiranjetelau3D.csprojAssemblyReference.cache
+C:\Users\B3astly\source\repos\rotiranjetelau3D\rotiranjetelau3D\obj\Debug\rotiranjetelau3D.csproj.CoreCompileInputs.cache
+C:\Users\B3astly\source\repos\rotiranjetelau3D\rotiranjetelau3D\obj\Debug\rotiranjetelau3D.exe
+C:\Users\B3astly\source\repos\rotiranjetelau3D\rotiranjetelau3D\obj\Debug\rotiranjetelau3D.pdb
